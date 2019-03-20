@@ -1,0 +1,5 @@
+[workspace]
+members = [
+  "lan-mike-client",
+  "lan-mike-server",
+]

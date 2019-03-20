@@ -1,0 +1,8 @@
+[package]
+name = "lan-mike-server"
+version = "0.1.0"
+authors = ["Wojciech Olejnik <divoolej@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+cpal = "0.8"
